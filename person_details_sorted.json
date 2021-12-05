@@ -1,0 +1,108 @@
+[
+    {
+        "age": 31,
+        "age_count": 373,
+        "country": [
+            {
+                "country_id": "KR",
+                "probability": 0.6944011147362663
+            },
+            {
+                "country_id": "GB",
+                "probability": 0.3055988852637337
+            }
+        ],
+        "gender": "female",
+        "gender_count": 388,
+        "name": "Hailey",
+        "probability": 0.94
+    },
+    {
+        "age": 36,
+        "age_count": 18408,
+        "country": [
+            {
+                "country_id": "CO",
+                "probability": 0.13568375508874006
+            },
+            {
+                "country_id": "CR",
+                "probability": 0.09681769415553583
+            },
+            {
+                "country_id": "EC",
+                "probability": 0.05219604133316145
+            }
+        ],
+        "gender": "female",
+        "gender_count": 19094,
+        "name": "Angie",
+        "probability": 0.98
+    },
+    {
+        "age": 36,
+        "age_count": 1863,
+        "country": [
+            {
+                "country_id": "GH",
+                "probability": 0.21798709630053828
+            },
+            {
+                "country_id": "GB",
+                "probability": 0.1865836559306752
+            },
+            {
+                "country_id": "US",
+                "probability": 0.1620754063194949
+            }
+        ],
+        "gender": "male",
+        "gender_count": 1939,
+        "name": "Elliot",
+        "probability": 0.97
+    },
+    {
+        "age": 46,
+        "age_count": 8611,
+        "country": [
+            {
+                "country_id": "UA",
+                "probability": 0.13571701314942716
+            },
+            {
+                "country_id": "MD",
+                "probability": 0.1307045055451502
+            },
+            {
+                "country_id": "EE",
+                "probability": 0.10879311312505231
+            }
+        ],
+        "gender": "female",
+        "gender_count": 10298,
+        "name": "Inna",
+        "probability": 0.98
+    },
+    {
+        "age": 48,
+        "age_count": 17707,
+        "country": [
+            {
+                "country_id": "TR",
+                "probability": 0.5050281261223756
+            },
+            {
+                "country_id": "AZ",
+                "probability": 0.2038025589908816
+            },
+            {
+                "country_id": "BG",
+                "probability": 0.06834437261372718
+            }
+        ],
+        "gender": "male",
+        "gender_count": 19797,
+        "name": "Oktay",
+        "probability": 0.97
+    }
+]
